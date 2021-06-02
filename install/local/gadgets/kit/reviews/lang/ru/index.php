@@ -1,0 +1,4 @@
+<?php
+$MESS['KIT_CABINET_REVIEWS_MODERATED'] = 'Опубликован';
+$MESS['KIT_CABINET_REVIEWS_NOT_MODERATED'] = 'Не опубликован';
+$MESS['KIT_CABINET_REVIEWS_ALL'] = 'Все отзывы';

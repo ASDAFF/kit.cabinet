@@ -1,0 +1,257 @@
+.kit-cabinet-gadget-subscribe .gdparent {
+	border: 1px solid #dadada;
+	position: relative;
+	background-color: white;
+}
+.kit-cabinet-gadget-subscribe .gdheader {
+	background-color: transparent;
+	padding: 10px 10px 10px 15px;
+	margin: 1px;
+	color: #000;
+	font-family: ProximaNova, Calibri;
+	font-size: 15px;
+	font-weight: normal;
+}
+.kit-cabinet-gadget-subscribe .gdcontent {
+	padding: 0 15px;
+	zoom: 1;
+	color: #303030;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: ProximaNova, Calibri;
+}
+.kit-cabinet-gadget-subscribe .gdhtmlareachlink a {
+	color: #6f727c;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+	text-decoration: none;
+	padding-bottom: 1px;
+	border-bottom: 1px dotted #6f727c;
+	line-height: 30px;
+}
+.kit-cabinet-gadget-subscribe .gdsettrow {
+	margin: 4px 15px 4px 12px;
+	color: #6f727c;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+}
+.kit-cabinet-gadget-subscribe .gdsettrow input[type='text'] {
+	color: #052640;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+	width: 100%;
+}
+.kit-cabinet-gadget-subscribe .gdsettrow input[type='text']:focus,
+.kit-cabinet-gadget-subscribe .gdsettrow input[type='text']:active {
+	outline: auto 5px;
+}
+.kit-cabinet-gadget-subscribe .gdsettrow input[type='button'] {
+	margin: 7px 0px 7px 0px;
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-bottom: 1px dotted #6f727c;
+	padding: 0 0 1px 0;
+	color: #6c727d;
+}
+.kit-cabinet-gadget-subscribe a.gdremove {
+	background-position: -42px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-subscribe a.gdremove:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-subscribe a.gdhide {
+	background-position: -22px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-subscribe a.gdhide:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-subscribe a.gdsettings {
+	background-position: -3px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-subscribe a.gdsettings:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-subscribe a.gdremove,
+.kit-cabinet-gadget-subscribe a.gdsettings,
+.kit-cabinet-gadget-subscribe a.gdhide,
+.kit-cabinet-gadget-subscribe a.gdshow,
+.kit-cabinet-gadget-subscribe a.gdshow:hover,
+.kit-cabinet-gadget-subscribe a.gdremove:hover,
+.kit-cabinet-gadget-subscribe a.gdsettings:hover,
+.kit-cabinet-gadget-subscribe a.gdhide:hover {
+	float: right;
+	height: 19px;
+	width: 19px;
+	margin-left: 3px;
+	margin-top: 0;
+	overflow: hidden;
+	position: relative;
+	background-image: url(img/sw_buttons.png);
+}
+.kit-cabinet-gadget-subscribe .gdoptions {
+	padding: 4px;
+	background-color: transparent;
+}
+.kit-cabinet-gadget-subscribe a.gdhtmlareachlink {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-bottom: 1px dotted #6f727c;
+	padding: 0 0 1px 0;
+	text-decoration: none;
+	color: #6c727d;
+	display: inline-block;
+	line-height: 15px;
+	font-family: ProximaNova, Calibri;
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+.kit-cabinet-gadget-subscribe .gdparent > a:first-of-type {
+	margin: 15px 0 15px 15px;
+	display: inline-block;
+}
+.kit-cabinet-gadget-subscribe .subscribe-theme input {
+	width: calc(100% - 7px);
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+	padding: 1px 0 1px 3px;
+}
+.kit-cabinet-gadget-subscribe .subscribe-theme {
+	position: relative;
+}
+.kit-cabinet-gadget-subscribe .subscribe-theme .subscribe-theme-icon {
+	background: transparent url(img/ic_key-r-b.png) no-repeat;
+	background-size: 15px;
+	background-position: right 3px center;
+	-webkit-appearance: none;
+	padding: 12px 20px;
+	font-family: ProximaNova, Calibri;
+	font-size: 15px;
+	text-decoration: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.kit-cabinet-gadget-subscribe input[name="EMAIL_TO"] {
+	width: 100%;
+}
+.kit-cabinet-gadget-subscribe .subscribe-items span {
+	display: inline-block;
+	font-family: ProximaNova, Calibri;
+	font-size: 12px;
+	background-color: #eeeeee;
+	color: #33363b;
+	padding: 5px;
+	margin: 5px 5px 0 0;
+}
+
+
+
+
+.kit_cabinet .kit-cabinet-gadget-subscribe a.gdsettings {
+	display: none;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe a.gdhtmlareachlink {
+	margin-top: 15px;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe input[name="EMAIL_TO"] {
+	padding: 2px;
+	font-size: 14px;
+	font-weight: normal;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe .gdcontent > form > div {
+	font-size: 13px;
+	font-weight: normal;
+	margin: 10px 0;
+	position: relative;
+	padding-left: 15px;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe .gdcontent > form > div > input {
+	position: absolute;
+	left: 0px;
+	top: 3px;
+	width: 10px;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe .gdcontent > a {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-bottom: 1px dotted #6f727c;
+	padding: 0 0 1px 0;
+	text-decoration: none;
+	color: #6c727d;
+	display: inline-block;
+	line-height: 15px;
+	font-family: ProximaNova, Calibri;
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe .subscribe-block {
+	line-height: 34px;
+	border: 1px solid #eeeeee;
+	padding: 0 0 0 5px;
+}
+.kit_cabinet .kit-cabinet-gadget-subscribe .subscribe-theme .subscribe-theme-icon {
+	padding: 17px 20px;
+}
+
+.kit-cabinet-gadget-subscribe a.gdsettings {
+	display: none!important;
+}
+.kit-cabinet-gadget-subscribe .subscribe-block {
+	line-height: 34px!important;
+	border: 1px solid #eeeeee!important;
+	padding: 0 0 0 5px!important;
+}
+.kit-cabinet-gadget-subscribe a.gdhtmlareachlink {
+	margin-top: 15px!important;
+}
+.kit-cabinet-gadget-subscribe .subscribe-theme .subscribe-theme-icon {
+	padding: 17px 20px!important;
+}
+.kit-cabinet-gadget-subscribe input[name="EMAIL_TO"] {
+	padding: 2px!important;
+	font-size: 14px!important;
+	font-weight: normal!important;
+}
+.kit-cabinet-gadget-subscribe .gdcontent > form > div > input {
+	position: absolute!important;
+	left: 0px!important;
+	top: 3px!important;
+	width: 10px!important;
+}
+.kit-cabinet-gadget-subscribe .gdcontent > form > div {
+	font-size: 13px!important;
+	font-weight: normal!important;
+	margin: 10px 0!important;
+	position: relative!important;
+	padding-left: 15px!important;
+}
+.kit-cabinet-gadget-subscribe .gdcontent > a {
+	border: none!important;
+	background-color: transparent!important;
+	cursor: pointer!important;
+	border-bottom: 1px dotted #6f727c!important;
+	padding: 0 0 1px 0!important;
+	text-decoration: none!important;
+	color: #6c727d!important;
+	display: inline-block!important;
+	line-height: 15px!important;
+	font-family: ProximaNova!important;
+	font-size: 14px!important;
+	margin-bottom: 15px!important;
+	font-weight: normal!important;
+}

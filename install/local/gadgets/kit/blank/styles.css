@@ -1,0 +1,347 @@
+.kit-cabinet-gadget-blank .gdparent {
+	border: 1px solid #dadada;
+	position: relative;
+	background-color: #f8f8f8;
+}
+.kit-cabinet-gadget-blank .gdheader {
+	background-color: transparent;
+	padding: 10px 10px 10px 15px;
+	margin: 1px;
+	color: #000;
+	font-family: ProximaNova, Calibri;
+	font-size: 15px;
+	font-weight: normal;
+}
+.kit-cabinet-gadget-blank .gdcontent {
+	padding: 10px 15px;
+	zoom: 1;
+	color: #303030;
+	font-size: 16px;
+	font-family: ProximaNova, Calibri;
+}
+.kit-cabinet-gadget-blank a.gdremove,
+.kit-cabinet-gadget-blank a.gdhide,
+.kit-cabinet-gadget-blank a.gdshow,
+.kit-cabinet-gadget-blank a.gdshow:hover,
+.kit-cabinet-gadget-blank a.gdremove:hover,
+.kit-cabinet-gadget-blank a.gdhide:hover {
+	float: right;
+	height: 19px;
+	width: 19px;
+	margin-left: 3px;
+	margin-top: 0;
+	overflow: hidden;
+	position: relative;
+	background-image: url(img/sw_buttons.png);
+}
+.kit-cabinet-gadget-blank a.gdremove {
+	background-position: -42px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-blank a.gdremove:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-blank a.gdhide {
+	background-position: -22px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-blank a.gdhide:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-blank .blank_excel_in_img {
+	background-image: url(img/blank_excel_in.png);
+	background-repeat: no-repeat;
+	background-position: 0px 6px;
+	width: 20px;
+	height: 33px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+.kit-cabinet-gadget-blank .blank_excel_out_img {
+	background-image: url(img/blank_excel_out.png);
+	background-repeat: no-repeat;
+	background-position: 0px 6px;
+	width: 20px;
+	height: 33px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+.kit-cabinet-gadget-blank .blank_excel_in_wrapper {
+	background-color: white;
+	text-align: center;
+	margin: 0 0 10px 0;
+	display: inline-block;
+	width: 100%;
+	border: 1px solid #dadada;
+	cursor: pointer;
+}
+.kit-cabinet-gadget-blank .blank_excel_out {
+	background-color: white;
+	text-align: center;
+	margin: 0 0 10px 0;
+	display: inline-block;
+	width: 100%;
+	border: 1px solid #dadada;
+	cursor: pointer;
+}
+.kit-cabinet-gadget-blank .gdcontent .blank_excel_in_img {
+	background-image: url(img/blank_excel_in.png);
+	background-repeat: no-repeat;
+	background-position: 0px 6px;
+	width: 20px;
+	height: 33px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+
+.kit-cabinet-gadget-blank .gdcontent .blank_excel_out_img {
+	background-image: url(img/blank_excel_out.png);
+	background-repeat: no-repeat;
+	background-position: 0px 6px;
+	width: 20px;
+	height: 33px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+
+
+
+.kit_cabinet .kit-cabinet-gadget-blank .gdsettings {
+	display: none;
+}
+.kit_cabinet .kit-cabinet-gadget-blank a.gdsettings,
+.kit_cabinet .kit-cabinet-gadget-blank a.gdhide,
+.kit_cabinet .kit-cabinet-gadget-blank a.gdremove,
+.kit_cabinet .kit-cabinet-gadget-blank a.gdsettings:hover,
+.kit_cabinet .kit-cabinet-gadget-blank a.gdhide:hover,
+.kit_cabinet .kit-cabinet-gadget-blank a.gdremove:hover {
+	border: 1px solid #f8f8f8;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .gdcontent .col-sm-6.sm-padding-left-no {
+	padding: 0;
+	float: none;
+	width: 100%;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .blank_excel_in.blank_excel {
+	color: #000000;
+	font-family: ProximaNova;
+	font-size: 14px;
+	height: 33px;
+	line-height: 33px;
+	border: 1px solid #dadada;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+.kit_cabinet .kit-cabinet-gadget-blank .blank_excel .blank_excel_text
+{
+	text-align:center!important;
+}
+
+.kit_cabinet .kit-cabinet-gadget-blank .blank_excel_out {
+	color: #000000;
+	font-family: ProximaNova;
+	font-size: 14px;
+	height: 33px;
+	line-height: 33px;
+	border: 1px solid #dadada;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .blank_excel_in_wrapper {
+	border: none;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .box.has-advanced-upload {
+	outline: 0;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .box__button {
+	background: transparent;
+	font-family: ProximaNova;
+	color: #052640;
+	border: 1px solid #dadada;
+	height: auto;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .js .box__file + label {
+	color: #052640;
+}
+.kit_cabinet .kit-cabinet-gadget-blank .gdheader {
+	font-family: ProximaNova;
+	font-weight: normal;
+}
+.kit-cabinet-gadget-blank .blank_excel_in.blank_excel {
+	color: #000000!important;
+	font-family: ProximaNova!important;
+	font-size: 14px!important;
+	height: 33px!important;
+	line-height: 33px!important;
+	border: 1px solid #dadada!important;
+	text-transform: uppercase!important;
+	cursor: pointer!important;
+}
+.kit-cabinet-gadget-blank .blank_excel_out {
+	color: #000000!important;
+	font-family: ProximaNova!important;
+	font-size: 14px!important;
+	height: 33px!important;
+	line-height: 33px!important;
+	border: 1px solid #dadada!important;
+	text-transform: uppercase!important;
+	cursor: pointer!important;
+}
+.kit-cabinet-gadget-blank .gdcontent .blank_excel_out_img {
+	background-image: url(img/blank_excel_out.png)!important;
+	background-repeat: no-repeat!important;
+	background-position: 0px 6px!important;
+	width: 20px!important;
+	height: 33px!important;
+	display: inline-block!important;
+	vertical-align: middle!important;
+	margin-right: 12px!important;
+}
+.kit-cabinet-gadget-blank .gdsettings {
+	display: none!important;
+}
+.kit-cabinet-gadget-blank .gdcontent .col-sm-6.sm-padding-left-no {
+	padding: 0!important;
+	float: none!important;
+	width: 100%!important;
+}
+.kit-cabinet-gadget-blank .gdcontent .blank_excel_in_img {
+	background-image: url(img/blank_excel_in.png)!important;
+	background-repeat: no-repeat!important;
+	background-position: 0px 6px!important;
+	width: 20px!important;
+	height: 33px!important;
+	display: inline-block!important;
+	vertical-align: middle!important;
+	margin-right: 12px!important;
+}
+.kit-cabinet-gadget-blank .blank_excel_in_wrapper {
+	background-color: white!important;
+	text-align: center!important;
+	font-family: ProximaNova!important;
+	margin: 0 0 10px 0!important;
+	display: inline-block!important;
+	width: 100%!important;
+	cursor: pointer!important;
+}
+.kit-cabinet-gadget-blank .box.has-advanced-upload {
+	outline: 0!important;
+}
+.kit-cabinet-gadget-blank .box__button {
+	background: transparent!important;
+	font-family: ProximaNova !important;
+	color: #052640!important;
+	border: 1px solid #dadada!important;
+	height: auto!important;
+}
+.kit-cabinet-gadget-blank .box__button
+{
+	font-size:16px;
+	color:#ffffff;
+	text-align:center;
+	background:#603a2f;
+	height:30px;
+	line-height:30px;
+	width:128px;
+	margin-top:15px;
+	cursor:pointer;
+	display: block;
+	border:0;
+	margin: 10px auto;
+	
+}
+.kit-cabinet-gadget-blank .box
+{
+	font-size: 14px;
+	background-color: #FFF;
+	position: relative;
+	padding: 10px;
+	
+}
+.kit-cabinet-gadget-blank .box.has-advanced-upload
+{
+	outline: 2px dashed #b07c7c;
+	outline-offset: -10px;
+	background:#FFF;
+	box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.3); 
+}
+.kit-cabinet-gadget-blank .js .box__file
+{
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+.kit-cabinet-gadget-blank .js .box__file + label
+{
+	color:#000;
+	font-size:14px;
+	text-transform: none;
+	text-align:center;
+	line-height:14px;
+	width:100%;
+	display:block;
+	margin-top:10px;
+	overflow-wrap: break-word;
+}
+.kit-cabinet-gadget-blank .error_blank_excel_in
+{
+	margin-top:10px;
+	color:red;
+	text-align:center;
+}
+.kit-cabinet-gadget-blank .js .box__file + label:hover strong,
+.kit-cabinet-gadget-blank .box__file:focus + label strong,
+.kit-cabinet-gadget-blank .box__file.has-focus + label strong
+{
+	text-decoration: underline;
+	cursor:pointer;
+}
+.kit-cabinet-gadget-blank .box.is-uploading .box__input,
+.kit-cabinet-gadget-blank .box.is-success .box__input,
+.kit-cabinet-gadget-blank .box.is-error .box__input
+{
+	visibility: hidden;
+}
+
+.kit-cabinet-gadget-blank .box__uploading,
+.kit-cabinet-gadget-blank .box__success,
+.kit-cabinet-gadget-blank .box__error
+{
+	display: none;
+}
+.kit-cabinet-gadget-blank .box.is-uploading .box__uploading,
+.kit-cabinet-gadget-blank .box.is-success .box__success,
+.kit-cabinet-gadget-blank .box.is-error .box__error
+{
+	display: block;
+	position: absolute;
+	top: 50%;
+	right: 0;
+	left: 0;
+
+	-webkit-transform: translateY( -50% );
+	transform: translateY( -50% );
+}
+.kit-cabinet-gadget-blank .box__uploading
+{
+	font-style: italic;
+}
+.kit-cabinet-gadget-blank .box__success
+{
+	-webkit-animation: appear-from-inside .25s ease-in-out;
+	animation: appear-from-inside .25s ease-in-out;
+}

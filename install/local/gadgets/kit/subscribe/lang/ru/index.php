@@ -1,0 +1,5 @@
+<?
+$MESS['GD_KIT_CABINET_SUBSCRIBES_EDIT'] = 'Изменить';
+$MESS['GD_KIT_CABINET_SUBSCRIBES_OK'] = 'Сохранить';
+$MESS['GD_KIT_CABINET_SUBSCRIBES_CANCEL'] = 'Отмена';
+?>

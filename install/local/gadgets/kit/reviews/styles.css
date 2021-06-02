@@ -1,0 +1,300 @@
+.kit-cabinet-gadget-reviews .gdparent {
+	border: 1px solid #dadada;
+	position: relative;
+	background-color: #f8f8f8;
+}
+.kit-cabinet-gadget-reviews .gdheader {
+	background-color: transparent;
+	padding: 10px 10px 10px 15px;
+	margin: 1px;
+	color: #000;
+	font-family: ProximaNova, Calibri;
+	font-size: 15px;
+	font-weight: normal;
+}
+.kit-cabinet-gadget-reviews .gdcontent {
+	padding: 10px 15px;
+	zoom: 1;
+	color: #303030;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: ProximaNova, Calibri;
+}
+.kit-cabinet-gadget-reviews .gdhtmlareachlink a {
+	color: #6f727c;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+	text-decoration: none;
+	padding-bottom: 1px;
+	border-bottom: 1px dotted #6f727c;
+	line-height: 30px;
+}
+.kit-cabinet-gadget-reviews .gdsettrow {
+	margin: 4px 15px 4px 12px;
+	color: #6f727c;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+}
+.kit-cabinet-gadget-reviews .gdsettrow input[type='text'] {
+	color: #052640;
+	font-size: 15px;
+	font-family: ProximaNova, Calibri;
+	width: 100%;
+}
+.kit-cabinet-gadget-reviews .gdsettrow input[type='text']:focus,
+.kit-cabinet-gadget-reviews .gdsettrow input[type='text']:active {
+	outline: auto 5px;
+}
+.kit-cabinet-gadget-reviews .gdsettrow input[type='button'] {
+	margin: 7px 0px 7px 0px;
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-bottom: 1px dotted #6f727c;
+	padding: 0 0 1px 0;
+	color: #6c727d;
+}
+.kit-cabinet-gadget-reviews a.gdremove {
+	background-position: -42px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-reviews a.gdremove:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-reviews a.gdhide {
+	background-position: -22px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-reviews a.gdhide:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-reviews a.gdsettings {
+	background-position: -3px 0;
+	border: 1px solid #f8f8f8;
+	border-radius: 50%;
+	background-color: #eeeeee;
+}
+.kit-cabinet-gadget-reviews a.gdsettings:hover {
+	border: 1px solid #6f7580;
+	border-radius: 50%;
+}
+.kit-cabinet-gadget-reviews a.gdremove,
+.kit-cabinet-gadget-reviews a.gdsettings,
+.kit-cabinet-gadget-reviews a.gdhide,
+.kit-cabinet-gadget-reviews a.gdshow,
+.kit-cabinet-gadget-reviews a.gdshow:hover,
+.kit-cabinet-gadget-reviews a.gdremove:hover,
+.kit-cabinet-gadget-reviews a.gdsettings:hover,
+.kit-cabinet-gadget-reviews a.gdhide:hover {
+	float: right;
+	height: 19px;
+	width: 19px;
+	margin-left: 3px;
+	margin-top: 0;
+	overflow: hidden;
+	position: relative;
+	background-image: url(img/sw_buttons.png);
+}
+.kit-cabinet-gadget-reviews .gdoptions {
+	padding: 4px;
+	background-color: transparent;
+}
+.kit-cabinet-gadget-reviews .gdhtmlareachlink a {
+	margin: 15px 0px 15px 15px;
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-bottom: 1px dotted #6f727c;
+	padding: 0 0 1px 0;
+	text-decoration: none;
+	color: #6c727d;
+	display: inline-block;
+	line-height: 15px;
+}
+.kit-cabinet-gadget-reviews .edge-block {
+	width: calc(100% - 30px);
+	height: 1px;
+	background-color: #dadada;
+	margin: 0 15px;
+}
+.kit-cabinet-gadget-reviews .options {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 12px;
+	font-size: 14px;
+	font-family: ProximaNova, Calibri;
+	color: #b6b8be;
+	line-height: 28px;
+}
+.kit-cabinet-gadget-reviews .options select {
+	width: 155px;
+	padding: 5px 0 5px 10px;
+	border: 1px solid #b6b8be;
+	background: #fff url(img/ic_key-b.png) no-repeat;
+	background-size: 15px;
+	background-position: right 5px center;
+	-webkit-appearance: none;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-title {
+	display: inline-block;
+	border-bottom: 1px solid #b6b8be;
+	font-size: 16px;
+	font-family: ProximaNova, Calibri;
+	color: #052640;
+	margin-bottom: 7px;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-rating {
+	display: block;
+	margin-bottom: 7px;
+	width: 59px;
+	position: relative;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-status {
+	font-size: 12px;
+	font-family: ProximaNova, Calibri;
+	color: #33363b;
+	display: inline-block;
+	margin-bottom: 7px;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-text {
+	font-size: 13px;
+	font-family: ProximaNova, Calibri;
+	color: #33363b;
+	display: inline-block;
+	margin-bottom: 7px;
+}
+.personal-container-reviews-rating .rating_selection {
+	text-align: left;
+	display: inline-block;
+	background: url("img/stars.png");
+	height: 11px;
+	width: 62%;
+	position: absolute;
+	top: 4px;
+	cursor: pointer;
+}
+.personal-container-reviews-rating .rating_selection_white {
+	text-align: left;
+	display: inline-block;
+	background: url("img/stars-w.png");
+	height: 11px;
+	width: 100%;
+	cursor: pointer;
+}
+.kit-cabinet-gadget-reviews .reviews-status-published {
+	color: #00bc35;
+}
+.kit-cabinet-gadget-reviews .reviews-status-unpublished {
+	color: #970405;
+}
+
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdhide,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdremove {
+	border: 1px solid #f8f8f8;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .edge-block {
+	width: 100%;
+	height: 1px;
+	background-color: #dadada;
+	margin: 0;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .gdhtmlareachlink a {
+	margin: 15px 0;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .personal-container-reviews-title > a {
+	color: #052640;
+	font-size: 16px;
+	font-family: ProximaNova, Calibri;
+	text-decoration: none;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .personal-container-reviews-text {
+	width: 100%;
+	font-weight: normal;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdsettings,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdhide,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdremove,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdsettings:hover,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdhide:hover,
+.kit_cabinet .kit-cabinet-gadget-reviews a.gdremove:hover {
+	border: 1px solid #f8f8f8 !important;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .gdsettrow.TITLE_STD {
+	display: none;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .gdsettrow.CNT select,
+.kit-cabinet-gadget-reviews .gdsettrow.TYPE select {
+	width: 120px;
+}
+.kit_cabinet .kit-cabinet-gadget-reviews .gdsettrow.CNT,
+.kit_cabinet .kit-cabinet-gadget-reviews .gdsettrow.TYPE {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 12px;
+	font-size: 14px;
+	font-family: ProximaNova, Calibri;
+	color: #b6b8be;
+	line-height: 22px;
+}
+
+.kit-cabinet-gadget-reviews .gdhtmlareachlink a {
+	margin: 15px 0!important;
+	font-weight: normal!important;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-text {
+	width: 100%!important;
+	font-weight: normal!important;
+}
+.kit-cabinet-gadget-reviews .edge-block {
+	width: 100%!important;
+	height: 1px!important;
+	background-color: #dadada!important;
+	margin: 0!important;
+}
+.kit-cabinet-gadget-reviews .personal-container-reviews-title > a {
+	color: #052640!important;
+	font-size: 16px!important;
+	font-family: ProximaNova!important;
+	text-decoration: none!important;
+	font-weight: normal!important;
+}
+.kit-cabinet-gadget-reviews .gdsettrow.TITLE_STD {
+	display: none!important;
+}
+.kit-cabinet-gadget-reviews .gdsettrow.CNT,
+.kit-cabinet-gadget-reviews .gdsettrow.TYPE {
+	display: flex!important;
+	flex-direction: row!important;
+	justify-content: space-between!important;
+	margin: 12px!important;
+	font-size: 14px!important;
+	font-family: ProximaNova!important;
+	color: #b6b8be!important;
+	line-height: 22px!important;
+}
+.kit-cabinet-gadget-reviews .gdsettrow.CNT select,
+.kit-cabinet-gadget-reviews .gdsettrow.TYPE select {
+	width: 120px!important;
+	height: 32px;
+    outline: none;
+    border: 1px solid #b6b8be!important;
+}
+.kit-cabinet-gadget-reviews .gdsettrow.CNT, .kit-cabinet-gadget-reviews .gdsettrow.TYPE {
+	display: flex!important;
+	flex-direction: row!important;
+	justify-content: space-between!important;
+	margin: 12px!important;
+	font-size: 14px!important;
+	font-family: ProximaNova!important;
+	color: #b6b8be!important;
+	line-height: 22px!important;
+	flex-wrap: wrap!important;
+}
